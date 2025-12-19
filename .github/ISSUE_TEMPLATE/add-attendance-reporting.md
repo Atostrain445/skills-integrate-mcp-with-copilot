@@ -9,7 +9,11 @@ assignees: ""
 Add daily/monthly/yearly attendance tracking with reports and CSV export.
 
 Tasks:
+<<<<<<< HEAD
 - Create `DailyAttendance`/`MonthlyAttendance`/`YearlyAttendance` models
+=======
+- Create DailyAttendance/MonthlyAttendance/YearlyAttendance models
+>>>>>>> 0e979fc43bcb794b49fbac437319c1081235150b
 - Add endpoints/views for marking and viewing attendance
 - Add reporting views and CSV export utilities
 - Write tests for attendance calculations and edge cases
